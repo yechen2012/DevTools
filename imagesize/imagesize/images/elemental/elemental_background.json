@@ -1,0 +1,699 @@
+{
+    "ID": "8463d09f-68a0-4d07-9bc1-630db7da3456",
+    "Version": "2.3.4",
+    "Name": "elemental_background",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 54,
+                "Children": [
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Tag": 113,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "elemental_back_bg.jpg",
+                                    "Plist": "elemental_jpg4.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 770,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 1.6,
+                                    "ScaleY": 1.6
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -500,
+                                "RightMargin": -500,
+                                "TopMargin": -500,
+                                "BottomMargin": -500,
+                                "Tag": 49,
+                                "ActionTag": -1975546864,
+                                "Size": {
+                                    "X": 1000,
+                                    "Y": 1000
+                                },
+                                "Name": "Sprite_1",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": true,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Tag": 482,
+                                "ActionTag": -141594596,
+                                "Size": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Name": "nodeSpineBG",
+                                "ctype": "SingleNodeObjectData"
+                            }
+                        ],
+                        "ActionTag": -2039223701,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodeBG",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Tag": 117,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "elemental_back_soil.jpg",
+                                    "Plist": "elemental_jpg6.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 770,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 1.6,
+                                    "ScaleY": 1.6
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -500,
+                                "RightMargin": -500,
+                                "TopMargin": -500,
+                                "BottomMargin": -500,
+                                "Tag": 127,
+                                "ActionTag": -944058495,
+                                "Size": {
+                                    "X": 1000,
+                                    "Y": 1000
+                                },
+                                "Name": "Sprite_2",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "Normal",
+                                    "Path": "elemental_t_bjgx.ExportJson",
+                                    "Plist": ""
+                                },
+                                "IsLoop": true,
+                                "IsAutoPlay": true,
+                                "CurrentAnimationName": "wait_1",
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": true,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Tag": 420,
+                                "ActionTag": 730268419,
+                                "Size": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Name": "ArmatureNode_2",
+                                "ctype": "ArmatureNodeObjectData"
+                            },
+                            {
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": true,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Tag": 484,
+                                "ActionTag": 594265164,
+                                "Size": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Name": "nodeSpineFG1",
+                                "ctype": "SingleNodeObjectData"
+                            }
+                        ],
+                        "ActionTag": -444476709,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodeFG1",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Tag": 122,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "elemental_back_water.jpg",
+                                    "Plist": "elemental_jpg8.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 770,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 1.6,
+                                    "ScaleY": 1.6
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -500,
+                                "RightMargin": -500,
+                                "TopMargin": -500,
+                                "BottomMargin": -500,
+                                "Tag": 128,
+                                "ActionTag": 711500474,
+                                "Size": {
+                                    "X": 1000,
+                                    "Y": 1000
+                                },
+                                "Name": "Sprite_3",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": true,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Tag": 485,
+                                "ActionTag": -1366352634,
+                                "Size": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Name": "nodeSpineFG2",
+                                "ctype": "SingleNodeObjectData"
+                            }
+                        ],
+                        "ActionTag": -770357002,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodeFG2",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Tag": 127,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "elemental_back_fire.jpg",
+                                    "Plist": "elemental_jpg5.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 770,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 1.6,
+                                    "ScaleY": 1.6
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -500,
+                                "RightMargin": -500,
+                                "TopMargin": -500,
+                                "BottomMargin": -500,
+                                "Tag": 129,
+                                "ActionTag": -1614562076,
+                                "Size": {
+                                    "X": 1000,
+                                    "Y": 1000
+                                },
+                                "Name": "Sprite_4",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "Normal",
+                                    "Path": "elemental_h_bjgx.ExportJson",
+                                    "Plist": ""
+                                },
+                                "IsLoop": true,
+                                "IsAutoPlay": true,
+                                "CurrentAnimationName": "wait_1",
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": true,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Tag": 419,
+                                "ActionTag": 85614389,
+                                "Size": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Name": "ArmatureNode_1",
+                                "ctype": "ArmatureNodeObjectData"
+                            },
+                            {
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": true,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Tag": 486,
+                                "ActionTag": 638075500,
+                                "Size": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Name": "nodeSpineFG3",
+                                "ctype": "SingleNodeObjectData"
+                            }
+                        ],
+                        "ActionTag": 1620478794,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodeFG3",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Tag": 131,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "elemental_back_wind.jpg",
+                                    "Plist": "elemental_jpg7.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 770,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 1.6,
+                                    "ScaleY": 1.6
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -500,
+                                "RightMargin": -500,
+                                "TopMargin": -500,
+                                "BottomMargin": -500,
+                                "Tag": 130,
+                                "ActionTag": -108642593,
+                                "Size": {
+                                    "X": 1000,
+                                    "Y": 1000
+                                },
+                                "Name": "Sprite_5",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": true,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Tag": 483,
+                                "ActionTag": 776228560,
+                                "Size": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Name": "nodeSpineFG4",
+                                "ctype": "SingleNodeObjectData"
+                            }
+                        ],
+                        "ActionTag": 1539093410,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodeFG4",
+                        "ctype": "SingleNodeObjectData"
+                    },
+                    {
+                        "ClipAble": false,
+                        "BackColorAlpha": 102,
+                        "SingleColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "FirstColor": {
+                            "R": 150,
+                            "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                            "ScaleY": 1
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "LeftMargin": -800,
+                        "RightMargin": -800,
+                        "TopMargin": -800,
+                        "BottomMargin": -800,
+                        "Tag": 136,
+                        "ActionTag": 582606495,
+                        "Size": {
+                            "X": 1600,
+                            "Y": 1600
+                        },
+                        "Name": "rectArea",
+                        "ctype": "PanelObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "Name": "Node",
+                "ctype": "SingleNodeObjectData"
+            },
+            "UsedResources": [
+                "elemental_h_bjgx.ExportJson",
+                "elemental_h_bjgx0.plist",
+                "elemental_h_bjgx0.png",
+                "elemental_jpg4.jpg",
+                "elemental_jpg4.plist",
+                "elemental_jpg5.jpg",
+                "elemental_jpg5.plist",
+                "elemental_jpg6.jpg",
+                "elemental_jpg6.plist",
+                "elemental_jpg7.jpg",
+                "elemental_jpg7.plist",
+                "elemental_jpg8.jpg",
+                "elemental_jpg8.plist",
+                "elemental_t_bjgx.ExportJson",
+                "elemental_t_bjgx0.plist",
+                "elemental_t_bjgx0.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

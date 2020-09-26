@@ -1,0 +1,41 @@
+
+elemental_beijing_cao.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cao_1
+  rotate: true
+  xy: 112, 28
+  size: 43, 116
+  orig: 43, 116
+  offset: 0, 0
+  index: -1
+cao_2
+  rotate: true
+  xy: 112, 4
+  size: 22, 106
+  orig: 22, 106
+  offset: 0, 0
+  index: -1
+cao_3
+  rotate: true
+  xy: 112, 73
+  size: 50, 149
+  orig: 50, 149
+  offset: 0, 0
+  index: -1
+cao_4
+  rotate: false
+  xy: 0, 0
+  size: 110, 123
+  orig: 110, 123
+  offset: 0, 0
+  index: -1
+cao_5
+  rotate: true
+  xy: 263, 98
+  size: 25, 134
+  orig: 25, 134
+  offset: 0, 0
+  index: -1

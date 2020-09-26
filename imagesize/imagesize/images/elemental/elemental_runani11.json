@@ -1,0 +1,357 @@
+{
+    "ID": "a3c3c936-f207-4fcc-a9eb-16b68df756a5",
+    "Version": "2.3.4",
+    "Name": "elemental_runani11",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 23,
+                "Speed": 0.4,
+                "Timelines": [
+                    {
+                        "ActionTag": -2077073254,
+                        "Property": "FileData",
+                        "Frames": [
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "elemental_runani11_00.png",
+                                    "Plist": "elemental_runani11.plist"
+                                },
+                                "FrameIndex": 0,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "elemental_runani11_01.png",
+                                    "Plist": "elemental_runani11.plist"
+                                },
+                                "FrameIndex": 1,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "elemental_runani11_02.png",
+                                    "Plist": "elemental_runani11.plist"
+                                },
+                                "FrameIndex": 2,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "elemental_runani11_03.png",
+                                    "Plist": "elemental_runani11.plist"
+                                },
+                                "FrameIndex": 3,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "elemental_runani11_04.png",
+                                    "Plist": "elemental_runani11.plist"
+                                },
+                                "FrameIndex": 4,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "elemental_runani11_05.png",
+                                    "Plist": "elemental_runani11.plist"
+                                },
+                                "FrameIndex": 5,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "elemental_runani11_06.png",
+                                    "Plist": "elemental_runani11.plist"
+                                },
+                                "FrameIndex": 6,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "elemental_runani11_07.png",
+                                    "Plist": "elemental_runani11.plist"
+                                },
+                                "FrameIndex": 7,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "elemental_runani11_08.png",
+                                    "Plist": "elemental_runani11.plist"
+                                },
+                                "FrameIndex": 8,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "elemental_runani11_09.png",
+                                    "Plist": "elemental_runani11.plist"
+                                },
+                                "FrameIndex": 9,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "elemental_runani11_10.png",
+                                    "Plist": "elemental_runani11.plist"
+                                },
+                                "FrameIndex": 10,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "elemental_runani11_11.png",
+                                    "Plist": "elemental_runani11.plist"
+                                },
+                                "FrameIndex": 11,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "elemental_runani11_12.png",
+                                    "Plist": "elemental_runani11.plist"
+                                },
+                                "FrameIndex": 12,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "elemental_runani11_13.png",
+                                    "Plist": "elemental_runani11.plist"
+                                },
+                                "FrameIndex": 13,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "elemental_runani11_14.png",
+                                    "Plist": "elemental_runani11.plist"
+                                },
+                                "FrameIndex": 14,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "elemental_runani11_15.png",
+                                    "Plist": "elemental_runani11.plist"
+                                },
+                                "FrameIndex": 15,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "elemental_runani11_16.png",
+                                    "Plist": "elemental_runani11.plist"
+                                },
+                                "FrameIndex": 16,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "elemental_runani11_17.png",
+                                    "Plist": "elemental_runani11.plist"
+                                },
+                                "FrameIndex": 17,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "elemental_runani11_18.png",
+                                    "Plist": "elemental_runani11.plist"
+                                },
+                                "FrameIndex": 18,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "elemental_runani11_19.png",
+                                    "Plist": "elemental_runani11.plist"
+                                },
+                                "FrameIndex": 19,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "elemental_runani11_20.png",
+                                    "Plist": "elemental_runani11.plist"
+                                },
+                                "FrameIndex": 20,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "elemental_runani11_21.png",
+                                    "Plist": "elemental_runani11.plist"
+                                },
+                                "FrameIndex": 21,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "elemental_runani11_22.png",
+                                    "Plist": "elemental_runani11.plist"
+                                },
+                                "FrameIndex": 22,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            },
+                            {
+                                "TextureFile": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "elemental_runani11_23.png",
+                                    "Plist": "elemental_runani11.plist"
+                                },
+                                "FrameIndex": 23,
+                                "Tween": false,
+                                "ctype": "TextureFrameData"
+                            }
+                        ],
+                        "ctype": "TimelineData"
+                    }
+                ],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 42,
+                "Children": [
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Tag": 151,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "elemental_runani11_00.png",
+                                    "Plist": "elemental_runani11.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -175,
+                                "RightMargin": -175,
+                                "TopMargin": -175,
+                                "BottomMargin": -175,
+                                "Tag": 44,
+                                "ActionTag": -2077073254,
+                                "Size": {
+                                    "X": 350,
+                                    "Y": 350
+                                },
+                                "Name": "Sprite_3",
+                                "ctype": "SpriteObjectData"
+                            }
+                        ],
+                        "ActionTag": -1061940608,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "Node_1",
+                        "ctype": "SingleNodeObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "Name": "Node",
+                "ctype": "SingleNodeObjectData"
+            },
+            "UsedResources": [
+                "elemental_runani11.plist",
+                "elemental_runani11.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

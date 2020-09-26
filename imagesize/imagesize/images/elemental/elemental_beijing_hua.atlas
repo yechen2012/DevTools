@@ -1,0 +1,20 @@
+
+elemental_beijing_hua.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fafa
+  rotate: false
+  xy: 0, 0
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+fazhi
+  rotate: false
+  xy: 0, 16
+  size: 354, 287
+  orig: 354, 287
+  offset: 0, 0
+  index: -1

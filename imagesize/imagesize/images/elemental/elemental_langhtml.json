@@ -1,0 +1,11 @@
+{
+    "paytable_freeSpin_details_1": ["<img src=\"./SC.png\" alt=\"\">"],
+    "paytable_earth_details_2": ["<img src=\"./WILD-soil.png\" alt=\"\">", "<img src=\"./wild.png\" alt=\"\">"],
+    "paytable_earth_details_3": ["<img src=\"./WILD-soil.png\" alt=\"\">", "<img src=\"./1.png\" alt=\"\">", "<img src=\"./2.png\" alt=\"\">", "<img src=\"./3.png\" alt=\"\">", "<img src=\"./4.png\" alt=\"\">", "<img src=\"./WILD-soil.png\" alt=\"\">"],
+    "paytable_water_details_2": ["<img src=\"./WILD-water.png\" alt=\"\">", "<img src=\"./wild.png\" alt=\"\">"],
+    "paytable_water_details_3": ["<img src=\"./WILD-water.png\" alt=\"\">"],
+    "paytable_fire_details_2": ["<img src=\"./WILD-fire.png\" alt=\"\">", "<img src=\"./wild.png\" alt=\"\">"],
+    "paytable_fire_details_4": ["<img src=\"./WILD-fire.png\" alt=\"\">"],
+    "paytable_air_details_2": ["<img src=\"./WILD-wind.png\" alt=\"\">", "<img src=\"./wild.png\" alt=\"\">"],
+    "paytable_air_details_3": ["<img src=\"./WILD-wind2.png\" alt=\"\">"]
+}

@@ -1,0 +1,605 @@
+{
+    "ID": "f03ed806-f2f8-494a-91f9-3d47ad244aa7",
+    "Version": "2.3.4",
+    "Name": "elemental_gamenode_boarddown",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 145,
+                "Children": [
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Tag": 391,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "elemental_back01_02.png",
+                                    "Plist": "elemental_png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 1,
+                                    "Y": -421
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -799,
+                                "RightMargin": -1,
+                                "TopMargin": 300,
+                                "BottomMargin": -542,
+                                "Tag": 392,
+                                "ActionTag": -430521276,
+                                "Size": {
+                                    "X": 800,
+                                    "Y": 242
+                                },
+                                "Name": "backBoard2",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "elemental_back01_02.png",
+                                    "Plist": "elemental_png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 0,
+                                    "Y": -421
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "RotationSkewY": 180,
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -800,
+                                "TopMargin": 300,
+                                "BottomMargin": -542,
+                                "Tag": 393,
+                                "ActionTag": 1247191272,
+                                "Size": {
+                                    "X": 800,
+                                    "Y": 242
+                                },
+                                "Name": "backBoard2_0",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "elemental_back01_02_flower.png",
+                                    "Plist": "elemental_png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": -625.5807,
+                                    "Y": -326.65
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -683.5807,
+                                "RightMargin": 567.5807,
+                                "TopMargin": 313.65,
+                                "BottomMargin": -339.65,
+                                "Tag": 394,
+                                "ActionTag": 544559998,
+                                "Size": {
+                                    "X": 116,
+                                    "Y": 26
+                                },
+                                "Name": "elemental_back01_02_flower_10",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "elemental_back01.png",
+                                    "Plist": "elemental_png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": -396,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -499,
+                                "RightMargin": 293,
+                                "TopMargin": -349.5,
+                                "BottomMargin": -349.5,
+                                "Tag": 395,
+                                "ActionTag": -1966528867,
+                                "Size": {
+                                    "X": 206,
+                                    "Y": 699
+                                },
+                                "Name": "backWheel01",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "elemental_back01.png",
+                                    "Plist": "elemental_png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": -198,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -301,
+                                "RightMargin": 95,
+                                "TopMargin": -349.5,
+                                "BottomMargin": -349.5,
+                                "Tag": 396,
+                                "ActionTag": -207013410,
+                                "Size": {
+                                    "X": 206,
+                                    "Y": 699
+                                },
+                                "Name": "backWheel02",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "elemental_back01.png",
+                                    "Plist": "elemental_png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -103,
+                                "RightMargin": -103,
+                                "TopMargin": -349.5,
+                                "BottomMargin": -349.5,
+                                "Tag": 397,
+                                "ActionTag": -1201083219,
+                                "Size": {
+                                    "X": 206,
+                                    "Y": 699
+                                },
+                                "Name": "backWheel03",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "elemental_back01.png",
+                                    "Plist": "elemental_png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 198,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 95,
+                                "RightMargin": -301,
+                                "TopMargin": -349.5,
+                                "BottomMargin": -349.5,
+                                "Tag": 398,
+                                "ActionTag": -1672407510,
+                                "Size": {
+                                    "X": 206,
+                                    "Y": 699
+                                },
+                                "Name": "backWheel04",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "elemental_back01.png",
+                                    "Plist": "elemental_png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 396,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 293,
+                                "RightMargin": -499,
+                                "TopMargin": -349.5,
+                                "BottomMargin": -349.5,
+                                "Tag": 399,
+                                "ActionTag": 1420745450,
+                                "Size": {
+                                    "X": 206,
+                                    "Y": 699
+                                },
+                                "Name": "backWheel05",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "elemental_back01_06.png",
+                                    "Plist": "elemental_png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": -530,
+                                    "Y": -32
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -592.5,
+                                "RightMargin": 467.5,
+                                "TopMargin": -302.5,
+                                "BottomMargin": -366.5,
+                                "Tag": 400,
+                                "ActionTag": 1104703802,
+                                "Size": {
+                                    "X": 125,
+                                    "Y": 669
+                                },
+                                "Name": "sprPillarLeft",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "elemental_back01_06.png",
+                                    "Plist": "elemental_png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 530,
+                                    "Y": -32
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "RotationSkewY": 180,
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 467.5,
+                                "RightMargin": -592.5,
+                                "TopMargin": -302.5,
+                                "BottomMargin": -366.5,
+                                "Tag": 401,
+                                "ActionTag": 2050313475,
+                                "Size": {
+                                    "X": 125,
+                                    "Y": 669
+                                },
+                                "Name": "sprPillarRight",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "elemental_back14.png",
+                                    "Plist": "elemental_png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": -526,
+                                    "Y": 53
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -548.5,
+                                "RightMargin": 503.5,
+                                "TopMargin": -97.5,
+                                "BottomMargin": 8.5,
+                                "Tag": 402,
+                                "ActionTag": -424221198,
+                                "Size": {
+                                    "X": 45,
+                                    "Y": 89
+                                },
+                                "Name": "25lines",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "elemental_back14.png",
+                                    "Plist": "elemental_png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 527,
+                                    "Y": 53
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 504.5,
+                                "RightMargin": -549.5,
+                                "TopMargin": -97.5,
+                                "BottomMargin": 8.5,
+                                "Tag": 403,
+                                "ActionTag": -547642240,
+                                "Size": {
+                                    "X": 45,
+                                    "Y": 89
+                                },
+                                "Name": "25lines",
+                                "ctype": "SpriteObjectData"
+                            }
+                        ],
+                        "ActionTag": 67641693,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "Node_1",
+                        "ctype": "SingleNodeObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "Name": "Node",
+                "ctype": "SingleNodeObjectData"
+            },
+            "UsedResources": [
+                "elemental_png.plist",
+                "elemental_png.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

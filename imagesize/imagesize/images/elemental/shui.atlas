@@ -1,0 +1,90 @@
+
+shui.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan1
+  rotate: false
+  xy: 560, 164
+  size: 57, 16
+  orig: 57, 16
+  offset: 0, 0
+  index: -1
+houfa1
+  rotate: false
+  xy: 560, 182
+  size: 92, 139
+  orig: 92, 139
+  offset: 0, 0
+  index: -1
+lian1
+  rotate: false
+  xy: 1467, 442
+  size: 74, 68
+  orig: 74, 68
+  offset: 0, 0
+  index: -1
+meimao1
+  rotate: false
+  xy: 0, 0
+  size: 47, 6
+  orig: 47, 6
+  offset: 0, 0
+  index: -1
+st1
+  rotate: true
+  xy: 0, 161
+  size: 349, 558
+  orig: 349, 558
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: false
+  xy: 389, 39
+  size: 102, 120
+  orig: 102, 120
+  offset: 0, 0
+  index: -1
+yanbai1
+  rotate: false
+  xy: 654, 305
+  size: 47, 16
+  orig: 47, 16
+  offset: 0, 0
+  index: -1
+yanzhu1
+  rotate: false
+  xy: 950, 325
+  size: 41, 11
+  orig: 41, 11
+  offset: 0, 0
+  index: -1
+yousha
+  rotate: true
+  xy: 950, 338
+  size: 172, 335
+  orig: 172, 335
+  offset: 0, 0
+  index: -1
+youxiu
+  rotate: true
+  xy: 0, 8
+  size: 151, 387
+  orig: 151, 387
+  offset: 0, 0
+  index: -1
+zuosha
+  rotate: false
+  xy: 1287, 336
+  size: 178, 174
+  orig: 178, 174
+  offset: 0, 0
+  index: -1
+zuoxiu
+  rotate: true
+  xy: 560, 323
+  size: 187, 388
+  orig: 187, 388
+  offset: 0, 0
+  index: -1

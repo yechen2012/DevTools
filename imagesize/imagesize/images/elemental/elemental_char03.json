@@ -1,0 +1,588 @@
+{
+    "ID": "1a0314b7-398b-4a71-aa8f-b8ea6d1b64f1",
+    "Version": "2.3.4",
+    "Name": "elemental_char03",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 84,
+                "Children": [
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Tag": 88,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "elemental_back202.png",
+                                    "Plist": "elemental_png4.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -151.5,
+                                "RightMargin": -151.5,
+                                "TopMargin": -330.5,
+                                "BottomMargin": -330.5,
+                                "Tag": 89,
+                                "ActionTag": 509007362,
+                                "Size": {
+                                    "X": 303,
+                                    "Y": 661
+                                },
+                                "Name": "Sprite_1",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "elemental_back206.png",
+                                    "Plist": "elemental_png4.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -122.5,
+                                "RightMargin": -122.5,
+                                "TopMargin": -302.5,
+                                "BottomMargin": -302.5,
+                                "Tag": 90,
+                                "ActionTag": 831755412,
+                                "Size": {
+                                    "X": 245,
+                                    "Y": 605
+                                },
+                                "Name": "Sprite_2",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "elemental_back216.png",
+                                    "Plist": "elemental_png4.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5
+                                },
+                                "Position": {
+                                    "X": 0,
+                                    "Y": 225
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -151.5,
+                                "RightMargin": -151.5,
+                                "TopMargin": -331,
+                                "BottomMargin": 225,
+                                "Tag": 128,
+                                "ActionTag": -1875401357,
+                                "Size": {
+                                    "X": 303,
+                                    "Y": 106
+                                },
+                                "Name": "Sprite_3",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "ClipAble": true,
+                                "BackColorAlpha": 102,
+                                "SingleColor": {
+                                    "R": 150,
+                                    "G": 200
+                                },
+                                "FirstColor": {
+                                    "R": 150,
+                                    "G": 200
+                                },
+                                "EndColor": {},
+                                "ColorVector": {
+                                    "ScaleY": 1
+                                },
+                                "Scale9Width": 1,
+                                "Scale9Height": 1,
+                                "TouchEnable": true,
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 0,
+                                    "Y": 50
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -121,
+                                "RightMargin": -121,
+                                "TopMargin": -400,
+                                "BottomMargin": -300,
+                                "Tag": 91,
+                                "ActionTag": 575175482,
+                                "Size": {
+                                    "X": 242,
+                                    "Y": 700
+                                },
+                                "Name": "nodeSpine",
+                                "ctype": "PanelObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "elemental_back207.png",
+                                    "Plist": "elemental_png4.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5
+                                },
+                                "Position": {
+                                    "X": 0,
+                                    "Y": -330
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -151.5,
+                                "RightMargin": -151.5,
+                                "TopMargin": -225,
+                                "BottomMargin": -330,
+                                "Tag": 127,
+                                "ActionTag": 1581237714,
+                                "Size": {
+                                    "X": 303,
+                                    "Y": 555
+                                },
+                                "Name": "Sprite_3",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "IsCustomSize": true,
+                                "FontSize": 18,
+                                "LabelText": "Fire Princess Feature",
+                                "FontResource": {
+                                    "Type": "Normal",
+                                    "Path": "elemental/NotoSans-R.ttf",
+                                    "Plist": ""
+                                },
+                                "HorizontalAlignmentType": "HT_Center",
+                                "VerticalAlignmentType": "VT_Bottom",
+                                "OutlineColor": {
+                                    "G": 0,
+                                    "B": 0
+                                },
+                                "ShadowColor": {
+                                    "R": 110,
+                                    "G": 110,
+                                    "B": 110
+                                },
+                                "ShadowOffsetX": 2,
+                                "ShadowOffsetY": -2,
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5
+                                },
+                                "Position": {
+                                    "X": 0,
+                                    "Y": -212
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -115,
+                                "RightMargin": -115,
+                                "TopMargin": 137,
+                                "BottomMargin": -212,
+                                "Tag": 84,
+                                "ActionTag": -1627716819,
+                                "Size": {
+                                    "X": 230,
+                                    "Y": 75
+                                },
+                                "Name": "textInfo1",
+                                "ctype": "TextObjectData"
+                            },
+                            {
+                                "IsCustomSize": true,
+                                "FontSize": 18,
+                                "LabelText": "Increasing Win Multiplier",
+                                "FontResource": {
+                                    "Type": "Normal",
+                                    "Path": "elemental/NotoSans-R.ttf",
+                                    "Plist": ""
+                                },
+                                "HorizontalAlignmentType": "HT_Center",
+                                "OutlineColor": {
+                                    "G": 0,
+                                    "B": 0
+                                },
+                                "ShadowColor": {
+                                    "R": 110,
+                                    "G": 110,
+                                    "B": 110
+                                },
+                                "ShadowOffsetX": 2,
+                                "ShadowOffsetY": -2,
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 1
+                                },
+                                "Position": {
+                                    "X": 0,
+                                    "Y": -218
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -115,
+                                "RightMargin": -115,
+                                "TopMargin": 218,
+                                "BottomMargin": -293,
+                                "Tag": 83,
+                                "ActionTag": 351171738,
+                                "Size": {
+                                    "X": 230,
+                                    "Y": 75
+                                },
+                                "Name": "textInfo2",
+                                "ctype": "TextObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "elemental_back213.png",
+                                    "Plist": "elemental_png4.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": -137,
+                                    "Y": 165
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -172.5,
+                                "RightMargin": 101.5,
+                                "TopMargin": -302.5,
+                                "BottomMargin": 27.5,
+                                "Tag": 95,
+                                "ActionTag": 1000022580,
+                                "Size": {
+                                    "X": 71,
+                                    "Y": 275
+                                },
+                                "Name": "Sprite_5",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "elemental_back212.png",
+                                    "Plist": "elemental_png4.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 127,
+                                    "Y": -220
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 106.5,
+                                "RightMargin": -147.5,
+                                "TopMargin": 148.5,
+                                "BottomMargin": -291.5,
+                                "Tag": 96,
+                                "ActionTag": -670611643,
+                                "Size": {
+                                    "X": 41,
+                                    "Y": 143
+                                },
+                                "Name": "Sprite_6",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "elemental_back214.png",
+                                    "Plist": "elemental_png4.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": -83,
+                                    "Y": -96
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -206.5,
+                                "RightMargin": -40.5,
+                                "TopMargin": 72.5,
+                                "BottomMargin": -119.5,
+                                "Tag": 97,
+                                "ActionTag": -1243204919,
+                                "Size": {
+                                    "X": 247,
+                                    "Y": 47
+                                },
+                                "Name": "Sprite_7",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "elemental_back215.png",
+                                    "Plist": "elemental_png4.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 89,
+                                    "Y": 270
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -2.5,
+                                "RightMargin": -180.5,
+                                "TopMargin": -286,
+                                "BottomMargin": 254,
+                                "Tag": 98,
+                                "ActionTag": 463937725,
+                                "Size": {
+                                    "X": 183,
+                                    "Y": 32
+                                },
+                                "Name": "Sprite_8",
+                                "ctype": "SpriteObjectData"
+                            }
+                        ],
+                        "ActionTag": -583943941,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodeChar",
+                        "ctype": "SingleNodeObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "Name": "Node",
+                "ctype": "SingleNodeObjectData"
+            },
+            "UsedResources": [
+                "elemental_png4.plist",
+                "elemental_png4.png",
+                "NotoSans-R.ttf"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

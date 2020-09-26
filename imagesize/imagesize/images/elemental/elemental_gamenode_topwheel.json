@@ -1,0 +1,484 @@
+{
+    "ID": "6dd7d0fe-5d1c-41e8-800f-e613551b77f4",
+    "Version": "2.3.4",
+    "Name": "elemental_gamenode_topwheel",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 227,
+                "Children": [
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 7
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "TopMargin": -7,
+                        "BottomMargin": 7,
+                        "Tag": 412,
+                        "Children": [
+                            {
+                                "ClipAble": true,
+                                "BackColorAlpha": 102,
+                                "SingleColor": {
+                                    "R": 150,
+                                    "G": 200
+                                },
+                                "FirstColor": {
+                                    "R": 150,
+                                    "G": 200
+                                },
+                                "EndColor": {},
+                                "ColorVector": {
+                                    "ScaleY": 1
+                                },
+                                "Scale9Width": 1,
+                                "Scale9Height": 1,
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -587,
+                                "RightMargin": -587,
+                                "TopMargin": -350,
+                                "BottomMargin": -350,
+                                "Tag": 127,
+                                "ActionTag": 1227075231,
+                                "Size": {
+                                    "X": 1174,
+                                    "Y": 700
+                                },
+                                "Name": "layEffectWheel",
+                                "ctype": "PanelObjectData"
+                            },
+                            {
+                                "ClipAble": true,
+                                "BackColorAlpha": 102,
+                                "SingleColor": {
+                                    "R": 150,
+                                    "G": 200
+                                },
+                                "FirstColor": {
+                                    "R": 150,
+                                    "G": 200
+                                },
+                                "EndColor": {},
+                                "ColorVector": {
+                                    "ScaleY": 1
+                                },
+                                "Scale9Width": 1,
+                                "Scale9Height": 1,
+                                "TouchEnable": true,
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": -412,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -587,
+                                "RightMargin": 237,
+                                "TopMargin": -350,
+                                "BottomMargin": -350,
+                                "Tag": 142,
+                                "ActionTag": 197396508,
+                                "Size": {
+                                    "X": 350,
+                                    "Y": 700
+                                },
+                                "Name": "layTopWheel1",
+                                "ctype": "PanelObjectData"
+                            },
+                            {
+                                "ClipAble": true,
+                                "BackColorAlpha": 102,
+                                "SingleColor": {
+                                    "R": 150,
+                                    "G": 200
+                                },
+                                "FirstColor": {
+                                    "R": 150,
+                                    "G": 200
+                                },
+                                "EndColor": {},
+                                "ColorVector": {
+                                    "ScaleY": 1
+                                },
+                                "Scale9Width": 1,
+                                "Scale9Height": 1,
+                                "TouchEnable": true,
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": -206,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -381,
+                                "RightMargin": 31,
+                                "TopMargin": -350,
+                                "BottomMargin": -350,
+                                "Tag": 143,
+                                "ActionTag": 1724844882,
+                                "Size": {
+                                    "X": 350,
+                                    "Y": 700
+                                },
+                                "Name": "layTopWheel2",
+                                "ctype": "PanelObjectData"
+                            },
+                            {
+                                "ClipAble": true,
+                                "BackColorAlpha": 102,
+                                "SingleColor": {
+                                    "R": 150,
+                                    "G": 200
+                                },
+                                "FirstColor": {
+                                    "R": 150,
+                                    "G": 200
+                                },
+                                "EndColor": {},
+                                "ColorVector": {
+                                    "ScaleY": 1
+                                },
+                                "Scale9Width": 1,
+                                "Scale9Height": 1,
+                                "TouchEnable": true,
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -175,
+                                "RightMargin": -175,
+                                "TopMargin": -350,
+                                "BottomMargin": -350,
+                                "Tag": 144,
+                                "ActionTag": 195688846,
+                                "Size": {
+                                    "X": 350,
+                                    "Y": 700
+                                },
+                                "Name": "layTopWheel3",
+                                "ctype": "PanelObjectData"
+                            },
+                            {
+                                "ClipAble": true,
+                                "BackColorAlpha": 102,
+                                "SingleColor": {
+                                    "R": 150,
+                                    "G": 200
+                                },
+                                "FirstColor": {
+                                    "R": 150,
+                                    "G": 200
+                                },
+                                "EndColor": {},
+                                "ColorVector": {
+                                    "ScaleY": 1
+                                },
+                                "Scale9Width": 1,
+                                "Scale9Height": 1,
+                                "TouchEnable": true,
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 206,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 31,
+                                "RightMargin": -381,
+                                "TopMargin": -350,
+                                "BottomMargin": -350,
+                                "Tag": 145,
+                                "ActionTag": -475794242,
+                                "Size": {
+                                    "X": 350,
+                                    "Y": 700
+                                },
+                                "Name": "layTopWheel4",
+                                "ctype": "PanelObjectData"
+                            },
+                            {
+                                "ClipAble": true,
+                                "BackColorAlpha": 102,
+                                "SingleColor": {
+                                    "R": 150,
+                                    "G": 200
+                                },
+                                "FirstColor": {
+                                    "R": 150,
+                                    "G": 200
+                                },
+                                "EndColor": {},
+                                "ColorVector": {
+                                    "ScaleY": 1
+                                },
+                                "Scale9Width": 1,
+                                "Scale9Height": 1,
+                                "TouchEnable": true,
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 412,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 237,
+                                "RightMargin": -587,
+                                "TopMargin": -350,
+                                "BottomMargin": -350,
+                                "Tag": 146,
+                                "ActionTag": -1955650601,
+                                "Size": {
+                                    "X": 350,
+                                    "Y": 700
+                                },
+                                "Name": "layTopWheel5",
+                                "ctype": "PanelObjectData"
+                            },
+                            {
+                                "ClipAble": true,
+                                "BackColorAlpha": 102,
+                                "SingleColor": {
+                                    "R": 150,
+                                    "G": 200
+                                },
+                                "FirstColor": {
+                                    "R": 150,
+                                    "G": 200
+                                },
+                                "EndColor": {},
+                                "ColorVector": {
+                                    "ScaleY": 1
+                                },
+                                "Scale9Width": 1,
+                                "Scale9Height": 1,
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -587,
+                                "RightMargin": -587,
+                                "TopMargin": -350,
+                                "BottomMargin": -350,
+                                "Tag": 24,
+                                "ActionTag": 1473337577,
+                                "Size": {
+                                    "X": 1174,
+                                    "Y": 700
+                                },
+                                "Name": "layTopWheel",
+                                "ctype": "PanelObjectData"
+                            },
+                            {
+                                "ClipAble": true,
+                                "BackColorAlpha": 102,
+                                "SingleColor": {
+                                    "R": 150,
+                                    "G": 200
+                                },
+                                "FirstColor": {
+                                    "R": 150,
+                                    "G": 200
+                                },
+                                "EndColor": {},
+                                "ColorVector": {
+                                    "ScaleY": 1
+                                },
+                                "Scale9Width": 1,
+                                "Scale9Height": 1,
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -587,
+                                "RightMargin": -587,
+                                "TopMargin": -350,
+                                "BottomMargin": -350,
+                                "Tag": 147,
+                                "ActionTag": 461432955,
+                                "Size": {
+                                    "X": 1174,
+                                    "Y": 700
+                                },
+                                "Name": "layTopEffectWheel",
+                                "ctype": "PanelObjectData"
+                            }
+                        ],
+                        "ActionTag": -1442718773,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "Node_1",
+                        "ctype": "SingleNodeObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "Name": "Node",
+                "ctype": "SingleNodeObjectData"
+            },
+            "UsedResources": [],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

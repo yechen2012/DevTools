@@ -1,0 +1,328 @@
+{
+    "ID": "89b74cb7-e86d-458d-8e2f-3a5c6484aca3",
+    "Version": "2.3.4",
+    "Name": "elemental_gamenode_touchwheel",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 148,
+                "Children": [
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 7
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "TopMargin": -7,
+                        "BottomMargin": 7,
+                        "Tag": 397,
+                        "Children": [
+                            {
+                                "ClipAble": true,
+                                "BackColorAlpha": 102,
+                                "SingleColor": {
+                                    "R": 150,
+                                    "G": 200
+                                },
+                                "FirstColor": {
+                                    "R": 150,
+                                    "G": 200
+                                },
+                                "EndColor": {},
+                                "ColorVector": {
+                                    "ScaleY": 1
+                                },
+                                "Scale9Width": 1,
+                                "Scale9Height": 1,
+                                "TouchEnable": true,
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": -412,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -512,
+                                "RightMargin": 312,
+                                "TopMargin": -350,
+                                "BottomMargin": -350,
+                                "Tag": 149,
+                                "ActionTag": 1320211792,
+                                "Size": {
+                                    "X": 200,
+                                    "Y": 700
+                                },
+                                "Name": "layTouchWheel1",
+                                "ctype": "PanelObjectData"
+                            },
+                            {
+                                "ClipAble": true,
+                                "BackColorAlpha": 102,
+                                "SingleColor": {
+                                    "R": 150,
+                                    "G": 200
+                                },
+                                "FirstColor": {
+                                    "R": 150,
+                                    "G": 200
+                                },
+                                "EndColor": {},
+                                "ColorVector": {
+                                    "ScaleY": 1
+                                },
+                                "Scale9Width": 1,
+                                "Scale9Height": 1,
+                                "TouchEnable": true,
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": -206,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -306,
+                                "RightMargin": 106,
+                                "TopMargin": -350,
+                                "BottomMargin": -350,
+                                "Tag": 150,
+                                "ActionTag": -1301383867,
+                                "Size": {
+                                    "X": 200,
+                                    "Y": 700
+                                },
+                                "Name": "layTouchWheel2",
+                                "ctype": "PanelObjectData"
+                            },
+                            {
+                                "ClipAble": true,
+                                "BackColorAlpha": 102,
+                                "SingleColor": {
+                                    "R": 150,
+                                    "G": 200
+                                },
+                                "FirstColor": {
+                                    "R": 150,
+                                    "G": 200
+                                },
+                                "EndColor": {},
+                                "ColorVector": {
+                                    "ScaleY": 1
+                                },
+                                "Scale9Width": 1,
+                                "Scale9Height": 1,
+                                "TouchEnable": true,
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -100,
+                                "RightMargin": -100,
+                                "TopMargin": -350,
+                                "BottomMargin": -350,
+                                "Tag": 151,
+                                "ActionTag": -1003214445,
+                                "Size": {
+                                    "X": 200,
+                                    "Y": 700
+                                },
+                                "Name": "layTouchWheel3",
+                                "ctype": "PanelObjectData"
+                            },
+                            {
+                                "ClipAble": true,
+                                "BackColorAlpha": 102,
+                                "SingleColor": {
+                                    "R": 150,
+                                    "G": 200
+                                },
+                                "FirstColor": {
+                                    "R": 150,
+                                    "G": 200
+                                },
+                                "EndColor": {},
+                                "ColorVector": {
+                                    "ScaleY": 1
+                                },
+                                "Scale9Width": 1,
+                                "Scale9Height": 1,
+                                "TouchEnable": true,
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 206,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 106,
+                                "RightMargin": -306,
+                                "TopMargin": -350,
+                                "BottomMargin": -350,
+                                "Tag": 152,
+                                "ActionTag": 636466528,
+                                "Size": {
+                                    "X": 200,
+                                    "Y": 700
+                                },
+                                "Name": "layTouchWheel4",
+                                "ctype": "PanelObjectData"
+                            },
+                            {
+                                "ClipAble": true,
+                                "BackColorAlpha": 102,
+                                "SingleColor": {
+                                    "R": 150,
+                                    "G": 200
+                                },
+                                "FirstColor": {
+                                    "R": 150,
+                                    "G": 200
+                                },
+                                "EndColor": {},
+                                "ColorVector": {
+                                    "ScaleY": 1
+                                },
+                                "Scale9Width": 1,
+                                "Scale9Height": 1,
+                                "TouchEnable": true,
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 412,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 312,
+                                "RightMargin": -512,
+                                "TopMargin": -350,
+                                "BottomMargin": -350,
+                                "Tag": 153,
+                                "ActionTag": -847650280,
+                                "Size": {
+                                    "X": 200,
+                                    "Y": 700
+                                },
+                                "Name": "layTouchWheel5",
+                                "ctype": "PanelObjectData"
+                            }
+                        ],
+                        "ActionTag": 1553800233,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "Node_1",
+                        "ctype": "SingleNodeObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "Name": "Node",
+                "ctype": "SingleNodeObjectData"
+            },
+            "UsedResources": [],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

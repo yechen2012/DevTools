@@ -1,0 +1,27 @@
+
+elemental_beijing_liushu.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+liushu1
+  rotate: false
+  xy: 0, 111
+  size: 239, 401
+  orig: 239, 401
+  offset: 0, 0
+  index: -1
+liushu2
+  rotate: true
+  xy: 0, 0
+  size: 111, 463
+  orig: 111, 463
+  offset: 0, 0
+  index: -1
+liushu3
+  rotate: false
+  xy: 239, 203
+  size: 44, 309
+  orig: 44, 309
+  offset: 0, 0
+  index: -1

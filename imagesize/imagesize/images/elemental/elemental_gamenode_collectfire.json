@@ -1,0 +1,234 @@
+{
+    "ID": "dd2e1454-ecce-4b81-a645-957eb45295d0",
+    "Version": "2.3.4",
+    "Name": "elemental_gamenode_collectfire",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 74,
+                "Children": [
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Tag": 772,
+                        "Children": [
+                            {
+                                "FileData": {
+                                    "Type": "PlistSubImage",
+                                    "Path": "elemental_back13.png",
+                                    "Plist": "elemental_png.plist"
+                                },
+                                "BlendFunc": {
+                                    "Src": 1,
+                                    "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 0,
+                                    "Y": 145
+                                },
+                                "Scale": {
+                                    "ScaleX": 1.2,
+                                    "ScaleY": 1.2
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -74,
+                                "RightMargin": -74,
+                                "TopMargin": -279.5,
+                                "BottomMargin": 10.5,
+                                "Tag": 773,
+                                "ActionTag": 1372723377,
+                                "Size": {
+                                    "X": 148,
+                                    "Y": 269
+                                },
+                                "Name": "Sprite_1",
+                                "ctype": "SpriteObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "Normal",
+                                    "Path": "elemental_hsj_1.ExportJson",
+                                    "Plist": ""
+                                },
+                                "IsLoop": true,
+                                "IsAutoPlay": true,
+                                "CurrentAnimationName": "wait_4",
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 0,
+                                    "Y": 145
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": true,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "TopMargin": -145,
+                                "BottomMargin": 145,
+                                "Tag": 540,
+                                "ActionTag": -2043987591,
+                                "Size": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Name": "aniFire",
+                                "ctype": "ArmatureNodeObjectData"
+                            },
+                            {
+                                "LabelText": "X99",
+                                "LabelBMFontFile_CNB": {
+                                    "Type": "Normal",
+                                    "Path": "elemental_test160_2.fnt",
+                                    "Plist": ""
+                                },
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 1,
+                                    "Y": 160
+                                },
+                                "Scale": {
+                                    "ScaleX": 0.45,
+                                    "ScaleY": 0.45
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -126,
+                                "RightMargin": -128,
+                                "TopMargin": -242,
+                                "BottomMargin": 78,
+                                "Tag": 774,
+                                "ActionTag": -588618420,
+                                "Size": {
+                                    "X": 254,
+                                    "Y": 164
+                                },
+                                "Name": "txtFire",
+                                "ctype": "TextBMFontObjectData"
+                            },
+                            {
+                                "FileData": {
+                                    "Type": "Normal",
+                                    "Path": "elemental_hsj_1.ExportJson",
+                                    "Plist": ""
+                                },
+                                "IsLoop": false,
+                                "IsAutoPlay": false,
+                                "CurrentAnimationName": "wait_3",
+                                "AnchorPoint": {},
+                                "Position": {
+                                    "X": 0,
+                                    "Y": 145
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": true,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "TopMargin": -145,
+                                "BottomMargin": 145,
+                                "Tag": 775,
+                                "ActionTag": 593105125,
+                                "Size": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Name": "ctrlFGFireAni",
+                                "ctype": "ArmatureNodeObjectData"
+                            }
+                        ],
+                        "ActionTag": -1112217849,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "nodeFGFireBoard",
+                        "ctype": "SingleNodeObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "Name": "Node",
+                "ctype": "SingleNodeObjectData"
+            },
+            "UsedResources": [
+                "elemental_hsj_1.ExportJson",
+                "elemental_hsj_10.plist",
+                "elemental_hsj_10.png",
+                "elemental_png.plist",
+                "elemental_png.png",
+                "elemental_test160_2.fnt",
+                "elemental_test160_2.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

@@ -1,0 +1,168 @@
+{
+    "ID": "f03ed806-f2f8-494a-91f9-3d47ad244aa7",
+    "Version": "2.3.4",
+    "Name": "elemental_gamenode_broad",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 145,
+                "Children": [
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "elemental_back01.png",
+                            "Plist": "elemental_png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "LeftMargin": -699.5,
+                        "RightMargin": -699.5,
+                        "TopMargin": -398,
+                        "BottomMargin": -398,
+                        "Tag": 165,
+                        "ActionTag": 743185346,
+                        "Size": {
+                            "X": 1399,
+                            "Y": 796
+                        },
+                        "Name": "backbroad",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "elemental_back14.png",
+                            "Plist": "elemental_png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": -544.5062,
+                            "Y": -15.2579
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "LeftMargin": -572.0062,
+                        "RightMargin": 517.0062,
+                        "TopMargin": -28.2421,
+                        "BottomMargin": -58.7579,
+                        "Tag": 166,
+                        "ActionTag": -1342873986,
+                        "Size": {
+                            "X": 55,
+                            "Y": 87
+                        },
+                        "Name": "25lines",
+                        "ctype": "SpriteObjectData"
+                    },
+                    {
+                        "FileData": {
+                            "Type": "PlistSubImage",
+                            "Path": "elemental_back14.png",
+                            "Plist": "elemental_png.plist"
+                        },
+                        "BlendFunc": {
+                            "Src": 1,
+                            "Dst": 771
+                        },
+                        "AnchorPoint": {
+                            "ScaleX": 0.5,
+                            "ScaleY": 0.5
+                        },
+                        "Position": {
+                            "X": 541.5013,
+                            "Y": -15.2579
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "LeftMargin": 514.0013,
+                        "RightMargin": -569.0013,
+                        "TopMargin": -28.2421,
+                        "BottomMargin": -58.7579,
+                        "Tag": 167,
+                        "ActionTag": 166350840,
+                        "Size": {
+                            "X": 55,
+                            "Y": 87
+                        },
+                        "Name": "25lines",
+                        "ctype": "SpriteObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "Name": "Node",
+                "ctype": "SingleNodeObjectData"
+            },
+            "UsedResources": [
+                "elemental_png.plist",
+                "elemental_png.png"
+            ],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}

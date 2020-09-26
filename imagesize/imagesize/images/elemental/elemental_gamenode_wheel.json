@@ -1,0 +1,328 @@
+{
+    "ID": "15cc5251-b75f-4bdd-849b-ea9bf9807837",
+    "Version": "2.3.4",
+    "Name": "elemental_gamenode_wheel",
+    "Content": {
+        "Content": {
+            "Animation": {
+                "Duration": 0,
+                "Speed": 1,
+                "Timelines": [],
+                "ctype": "TimelineActionData"
+            },
+            "AnimationList": [],
+            "ObjectData": {
+                "Tag": 207,
+                "Children": [
+                    {
+                        "AnchorPoint": {},
+                        "Position": {
+                            "X": 0,
+                            "Y": 7
+                        },
+                        "Scale": {
+                            "ScaleX": 1,
+                            "ScaleY": 1
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "PreSize": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "TopMargin": -7,
+                        "BottomMargin": 7,
+                        "Tag": 413,
+                        "Children": [
+                            {
+                                "ClipAble": true,
+                                "BackColorAlpha": 102,
+                                "SingleColor": {
+                                    "R": 150,
+                                    "G": 200
+                                },
+                                "FirstColor": {
+                                    "R": 150,
+                                    "G": 200
+                                },
+                                "EndColor": {},
+                                "ColorVector": {
+                                    "ScaleY": 1
+                                },
+                                "Scale9Width": 1,
+                                "Scale9Height": 1,
+                                "TouchEnable": true,
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": -412,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -587,
+                                "RightMargin": 237,
+                                "TopMargin": -350,
+                                "BottomMargin": -350,
+                                "Tag": 122,
+                                "ActionTag": 384443136,
+                                "Size": {
+                                    "X": 350,
+                                    "Y": 700
+                                },
+                                "Name": "layWheel1",
+                                "ctype": "PanelObjectData"
+                            },
+                            {
+                                "ClipAble": true,
+                                "BackColorAlpha": 102,
+                                "SingleColor": {
+                                    "R": 150,
+                                    "G": 200
+                                },
+                                "FirstColor": {
+                                    "R": 150,
+                                    "G": 200
+                                },
+                                "EndColor": {},
+                                "ColorVector": {
+                                    "ScaleY": 1
+                                },
+                                "Scale9Width": 1,
+                                "Scale9Height": 1,
+                                "TouchEnable": true,
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": -206,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -381,
+                                "RightMargin": 31,
+                                "TopMargin": -350,
+                                "BottomMargin": -350,
+                                "Tag": 123,
+                                "ActionTag": 1183899117,
+                                "Size": {
+                                    "X": 350,
+                                    "Y": 700
+                                },
+                                "Name": "layWheel2",
+                                "ctype": "PanelObjectData"
+                            },
+                            {
+                                "ClipAble": true,
+                                "BackColorAlpha": 102,
+                                "SingleColor": {
+                                    "R": 150,
+                                    "G": 200
+                                },
+                                "FirstColor": {
+                                    "R": 150,
+                                    "G": 200
+                                },
+                                "EndColor": {},
+                                "ColorVector": {
+                                    "ScaleY": 1
+                                },
+                                "Scale9Width": 1,
+                                "Scale9Height": 1,
+                                "TouchEnable": true,
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": -175,
+                                "RightMargin": -175,
+                                "TopMargin": -350,
+                                "BottomMargin": -350,
+                                "Tag": 124,
+                                "ActionTag": -2014783881,
+                                "Size": {
+                                    "X": 350,
+                                    "Y": 700
+                                },
+                                "Name": "layWheel3",
+                                "ctype": "PanelObjectData"
+                            },
+                            {
+                                "ClipAble": true,
+                                "BackColorAlpha": 102,
+                                "SingleColor": {
+                                    "R": 150,
+                                    "G": 200
+                                },
+                                "FirstColor": {
+                                    "R": 150,
+                                    "G": 200
+                                },
+                                "EndColor": {},
+                                "ColorVector": {
+                                    "ScaleY": 1
+                                },
+                                "Scale9Width": 1,
+                                "Scale9Height": 1,
+                                "TouchEnable": true,
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 206,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 31,
+                                "RightMargin": -381,
+                                "TopMargin": -350,
+                                "BottomMargin": -350,
+                                "Tag": 125,
+                                "ActionTag": -519730624,
+                                "Size": {
+                                    "X": 350,
+                                    "Y": 700
+                                },
+                                "Name": "layWheel4",
+                                "ctype": "PanelObjectData"
+                            },
+                            {
+                                "ClipAble": true,
+                                "BackColorAlpha": 102,
+                                "SingleColor": {
+                                    "R": 150,
+                                    "G": 200
+                                },
+                                "FirstColor": {
+                                    "R": 150,
+                                    "G": 200
+                                },
+                                "EndColor": {},
+                                "ColorVector": {
+                                    "ScaleY": 1
+                                },
+                                "Scale9Width": 1,
+                                "Scale9Height": 1,
+                                "TouchEnable": true,
+                                "AnchorPoint": {
+                                    "ScaleX": 0.5,
+                                    "ScaleY": 0.5
+                                },
+                                "Position": {
+                                    "X": 412,
+                                    "Y": 0
+                                },
+                                "Scale": {
+                                    "ScaleX": 1,
+                                    "ScaleY": 1
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "PreSize": {
+                                    "X": 0,
+                                    "Y": 0
+                                },
+                                "LeftMargin": 237,
+                                "RightMargin": -587,
+                                "TopMargin": -350,
+                                "BottomMargin": -350,
+                                "Tag": 126,
+                                "ActionTag": 60361448,
+                                "Size": {
+                                    "X": 350,
+                                    "Y": 700
+                                },
+                                "Name": "layWheel5",
+                                "ctype": "PanelObjectData"
+                            }
+                        ],
+                        "ActionTag": 296230642,
+                        "Size": {
+                            "X": 0,
+                            "Y": 0
+                        },
+                        "Name": "Node_1",
+                        "ctype": "SingleNodeObjectData"
+                    }
+                ],
+                "Size": {
+                    "X": 0,
+                    "Y": 0
+                },
+                "Name": "Node",
+                "ctype": "SingleNodeObjectData"
+            },
+            "UsedResources": [],
+            "ctype": "GameFileData"
+        }
+    },
+    "Type": "Node"
+}
