@@ -6,9 +6,9 @@ var fs = require("fs");
 var path = require("path");
 var child_process = require('child_process');
 
-var index = "10";
+var index = "04";
 
-var SOURCE_PATH = "H:\\files\\steampunk_蒸汽朋克\\res\\20200925\\icon_frame\\steampunk_ani_icon" + index;
+var SOURCE_PATH = "H:\\files\\steampunk_蒸汽朋克\\res\\20200930\\icon缩图";
 var PUBLISH_PATH = SOURCE_PATH;
 
 var FILENAME = "steampunk_runani" + index + "_";
@@ -50,7 +50,15 @@ var num2Str = function(num, len) {
 }
 
 var start = function() {
-    rename(SOURCE_PATH);
+    for (var i = 1; i <= 10; ++i) {
+        index = i;
+
+        count = 0;
+        var path = SOURCE_PATH + "\\" + "steampunk_runani" + num2Str(index, 2);
+        FILENAME = "steampunk_runani" + num2Str(index, 2) + "_";
+
+        rename(path);
+    }
 }
 
 start();

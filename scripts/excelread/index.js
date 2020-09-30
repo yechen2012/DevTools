@@ -90,7 +90,7 @@ var version = "1.01";
 // parseGameSheet(0,15,'de');
 // parseGameSheet(0,1,'zh');
 // parseGameSheet("taoist", 0,1,'zh');
-parseGameSheet("elemental", 0,2,'en');
+parseGameSheet("steampunk", 0,2,'en');
 // parseGameSheet("taoist", 0,3,'sv');
 // parseGameSheet("taoist", 0,4,'no');
 // parseGameSheet("taoist", 0,5,'de');

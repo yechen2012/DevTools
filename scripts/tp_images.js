@@ -6,8 +6,8 @@ var fs = require("fs");
 var path = require("path");
 var child_process = require('child_process');
 
-var SOURCE_PATH = "H:\\files\\steampunk_蒸汽朋克\\res\\20200925\\icon_frame";
-var TARGET_PATH = "H:\\files\\steampunk_蒸汽朋克\\res\\20200925\\icon_frame";
+var SOURCE_PATH = "H:\\files\\steampunk_蒸汽朋克\\res\\20200930\\icon缩图";
+var TARGET_PATH = TARGET_PATH;
 
 function tpFile(rootPath, folderName) {
     var folderPath = rootPath + "\\" + folderName;

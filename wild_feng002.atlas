@@ -1,0 +1,160 @@
+
+wild_feng002.png
+size: 2014,1223
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan3
+  rotate: true
+  xy: 1845, 633
+  size: 141, 65
+  orig: 141, 65
+  offset: 0, 0
+  index: -1
+fadai
+  rotate: false
+  xy: 1959, 817
+  size: 52, 179
+  orig: 52, 179
+  offset: 0, 0
+  index: -1
+houfa4
+  rotate: false
+  xy: 0, 361
+  size: 485, 862
+  orig: 485, 862
+  offset: 0, 0
+  index: -1
+huju
+  rotate: false
+  xy: 1659, 141
+  size: 194, 218
+  orig: 194, 218
+  offset: 0, 0
+  index: -1
+huju1
+  rotate: false
+  xy: 1867, 998
+  size: 125, 225
+  orig: 125, 225
+  offset: 0, 0
+  index: -1
+lian3
+  rotate: false
+  xy: 1855, 170
+  size: 159, 189
+  orig: 159, 189
+  offset: 0, 0
+  index: -1
+lingzi1
+  rotate: false
+  xy: 1226, 358
+  size: 430, 234
+  orig: 430, 234
+  offset: 0, 0
+  index: -1
+lingzi2
+  rotate: false
+  xy: 1370, 594
+  size: 473, 196
+  orig: 473, 196
+  offset: 0, 0
+  index: -1
+meimao3
+  rotate: true
+  xy: 1912, 644
+  size: 130, 29
+  orig: 130, 29
+  offset: 0, 0
+  index: -1
+sidai1
+  rotate: false
+  xy: 487, 659
+  size: 881, 243
+  orig: 881, 243
+  offset: 0, 0
+  index: -1
+sidai2
+  rotate: false
+  xy: 487, 904
+  size: 881, 319
+  orig: 881, 319
+  offset: 0, 0
+  index: -1
+st3
+  rotate: true
+  xy: 487, 284
+  size: 373, 737
+  orig: 373, 737
+  offset: 0, 0
+  index: -1
+toufa3
+  rotate: true
+  xy: 1658, 361
+  size: 231, 249
+  orig: 231, 249
+  offset: 0, 0
+  index: -1
+toufa4
+  rotate: false
+  xy: 1659, 51
+  size: 160, 88
+  orig: 160, 88
+  offset: 0, 0
+  index: -1
+toushi
+  rotate: true
+  xy: 1867, 776
+  size: 220, 90
+  orig: 220, 90
+  offset: 0, 0
+  index: -1
+yanbai3
+  rotate: false
+  xy: 1226, 596
+  size: 120, 61
+  orig: 120, 61
+  offset: 0, 0
+  index: -1
+yanzhu3
+  rotate: false
+  xy: 1855, 122
+  size: 102, 46
+  orig: 102, 46
+  offset: 0, 0
+  index: -1
+youshou3
+  rotate: true
+  xy: 1013, 23
+  size: 259, 299
+  orig: 259, 299
+  offset: 0, 0
+  index: -1
+youxiu3
+  rotate: true
+  xy: 0, 0
+  size: 359, 481
+  orig: 359, 481
+  offset: 0, 0
+  index: -1
+zuoshou3
+  rotate: true
+  xy: 483, 14
+  size: 268, 528
+  orig: 268, 528
+  offset: 0, 0
+  index: -1
+zuoxiu3
+  rotate: false
+  xy: 1314, 32
+  size: 343, 324
+  orig: 343, 324
+  offset: 0, 0
+  index: -1
+zuoxiu4
+  rotate: false
+  xy: 1370, 792
+  size: 495, 431
+  orig: 495, 431
+  offset: 0, 0
+  index: -1
