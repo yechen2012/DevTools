@@ -77,7 +77,26 @@ function parseTestSheet(keyindex,keyvalue,language){
     })
 }
 
-var version = "1.01";
+var version = "1.02";
+//
+// parseGameSheet("atlantis", 0,1,'en');
+// parseGameSheet("atlantis", 0,2,'fi');
+// parseGameSheet("atlantis", 0,3,'de');
+// parseGameSheet("atlantis", 0,4,'ru');
+// parseGameSheet("atlantis", 0,5,'it');
+// parseGameSheet("atlantis", 0,6,'sv');
+// parseGameSheet("atlantis", 0,7,'no');
+
+// parseGameSheet("steampunk", 0,1,'zh');
+parseGameSheet("steampunk", 0,2,'en');
+parseGameSheet("steampunk", 0,3,'sv');
+// parseGameSheet("steampunk", 0,4,'no');
+parseGameSheet("steampunk", 0,5,'de');
+parseGameSheet("steampunk", 0,6,'fi');
+parseGameSheet("steampunk", 0,7,'ru');
+parseGameSheet("steampunk", 0,8,'it');
+
+// parseGameSheet("wealth", 0,2,'en');
 
 //common
 // parseTestSheet(0,1,'de');
@@ -90,7 +109,7 @@ var version = "1.01";
 // parseGameSheet(0,15,'de');
 // parseGameSheet(0,1,'zh');
 // parseGameSheet("taoist", 0,1,'zh');
-parseGameSheet("steampunk", 0,2,'en');
+// parseGameSheet("taoist", 0,2,'en');
 // parseGameSheet("taoist", 0,3,'sv');
 // parseGameSheet("taoist", 0,4,'no');
 // parseGameSheet("taoist", 0,5,'de');

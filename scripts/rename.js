@@ -8,7 +8,7 @@ var child_process = require('child_process');
 
 var index = "04";
 
-var SOURCE_PATH = "H:\\files\\steampunk_蒸汽朋克\\res\\20200930\\icon缩图";
+var SOURCE_PATH = "H:\\files\\steampunk_蒸汽朋克\\res\\20201019\\缩";
 var PUBLISH_PATH = SOURCE_PATH;
 
 var FILENAME = "steampunk_runani" + index + "_";
@@ -50,7 +50,7 @@ var num2Str = function(num, len) {
 }
 
 var start = function() {
-    for (var i = 1; i <= 10; ++i) {
+    for (var i = 0; i < 1; ++i) {
         index = i;
 
         count = 0;
