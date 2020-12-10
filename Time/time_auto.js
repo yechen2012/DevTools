@@ -151,13 +151,15 @@ function main() {
         if (row >= monthData.length) {
             insertDayData(monthData, date, row);
             monthData.sort(function(a, b) {
-                var ret = 0;
+                var ret = 1;
                 if (a[0] == "日期")
                     ret = -1;
                 else if (b[0] == "日期")
                     ret = 1;
                 else if (parseInt(a[0]) < parseInt(b[0]))
                     ret = -1;
+
+                console.log("a = ", a[0], "b = ", b[0], "ret = ", ret);
 
                 return ret;
             });
