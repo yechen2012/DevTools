@@ -47,7 +47,8 @@ function createNewExcelValue() {
                     "起始时间（格式化）",
                     "结束时间（格式化）",
                     "每日时长",
-                    "余额"
+                    "单日余额",
+                    "月度小计"
                 ]
             ]
         }
@@ -88,6 +89,7 @@ function createNewRowData(todayFmt, date) {
     lst.push(fmt);
     lst.push(0);
     lst.push(balance);
+    lst.push(0);
 
     return lst;
 };
@@ -123,6 +125,31 @@ function insertDayData(lstMonthData, date, row) {
     }
 
     lstMonthData.push(createNewRowData(undefined, date));
+};
+
+function writeMonethlyTotalTime(lstMonthData) {
+    if (!lstMonthData)
+        return;
+
+    var dayData = undefined;
+    var temp = undefined;
+    var index = 0;
+    // 第一条必为Title
+    for (var i = 1; i < lstMonthData.length; ++i) {
+        dayData = lstMonthData[i];
+        index = i;
+
+        var totalTime = 0;
+
+        while(index > 0) {
+            temp = lstMonthData[index];
+            totalTime += temp[7];
+
+            --index;
+        }
+
+        dayData[8] = totalTime;
+    }
 };
 
 function main() {
@@ -166,6 +193,9 @@ function main() {
             break;
         }
     }
+
+    // 月度小计
+    writeMonethlyTotalTime(monthData);
 
     if (excelDesc) {
         fs.writeFile(filePath, xlsx.build(excelDesc), (err) => {
