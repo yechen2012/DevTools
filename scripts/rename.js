@@ -6,12 +6,13 @@ var fs = require("fs");
 var path = require("path");
 var child_process = require('child_process');
 
-var index = "04";
+var index = "01";
 
-var SOURCE_PATH = "H:\\files\\steampunk_蒸汽朋克\\res\\20201215";
+var SOURCE_PATH = "D:\\Workspace\\Resource\\pachislot_c3\\res\\忍者\\icon-280x280";
 var PUBLISH_PATH = SOURCE_PATH;
 
-var FILENAME = "steampunk_runani" + index + "_";
+var FILENAME = "pachislot_icon_";
+// var FILENAME = "pachislot_icon" + index + "_";
 
 var count = 0;
 
@@ -50,15 +51,17 @@ var num2Str = function(num, len) {
 }
 
 var start = function() {
-    for (var i = 3; i < 4; ++i) {
-        index = i;
+    rename(SOURCE_PATH);
 
-        count = 0;
-        var path = SOURCE_PATH + "\\" + "steampunk_runani" + num2Str(index, 2);
-        FILENAME = "steampunk_runani" + num2Str(index, 2) + "_";
-
-        rename(path);
-    }
+    // for (var i = 3; i < 4; ++i) {
+    //     index = i;
+    //
+    //     count = 0;
+    //     var path = SOURCE_PATH + "\\" + "steampunk_runani" + num2Str(index, 2);
+    //     FILENAME = "steampunk_runani" + num2Str(index, 2) + "_";
+    //
+    //     rename(path);
+    // }
 }
 
 start();
